@@ -3,4 +3,9 @@ ACG python project
 
 # This project requires python 3 and the requests packages
 
-`python3.7 meteors.py`
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python meteors.py"
+```
